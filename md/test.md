@@ -1,8 +1,8 @@
 # O Captain! My Captain!
 *Walt Whitman*
 
-<p>O Captain! my Captain! our fearful trip is done;</p>
-<p>The ship has weather’d every rack, the prize we sought is won,</p>
+O Captain! my Captain! our fearful trip is done;  
+The ship has weather’d every rack, the prize we sought is won,  
 The port is near, the bells I hear, the people all exulting,
 While follow eyes the steady keel, the vessel grim and daring;    
    But O heart! heart! heart!
