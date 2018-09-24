@@ -34,9 +34,9 @@ From fearful trip the victor ship comes in with object won;
 
 <br>
 
-<pre>
+<code>
 <span style="color:blue">some *This is Blue italic.* text</span>
-</pre>
+</code>
 
 ---
 
