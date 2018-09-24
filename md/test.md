@@ -1,4 +1,4 @@
-# O Captain!
+## Captain O Captain!
 
 O Captain! my Captain! our fearful trip is done;[^fn1]
 The ship has weather’d every rack, the prize we sought is won,
