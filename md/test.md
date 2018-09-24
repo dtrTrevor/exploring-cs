@@ -1,7 +1,7 @@
 # O Captain! My Captain!
 *Walt Whitman*
 
-<code>
+<pre>
 O Captain! my Captain! our fearful trip is done;<sup>1</sup>  
 The ship has weather’d every rack, the prize we sought is won,  
 The port is near, the bells I hear, the people all exulting,  
@@ -10,7 +10,7 @@ While follow eyes the steady keel, the vessel grim and daring;
        O the bleeding drops of red,  
           Where on the deck my Captain lies,  
             Fallen cold and dead.  
-</code>
+</pre>
 
 - O Captain! my Captain! rise up and hear the bells; 
 - Rise up—for you the flag is flung—for you the bugle[^fn2] trills,
