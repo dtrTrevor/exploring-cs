@@ -1,4 +1,7 @@
-## This is a markdown file
+---
+layout: poem
+title: "O Captain! My Captain!"
+---
 
 - O Captain! my Captain! our fearful trip is done;[^fn1]
 - The ship has weather’d every rack, the prize we sought is won,
