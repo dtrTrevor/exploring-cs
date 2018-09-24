@@ -1,16 +1,16 @@
 # O Captain! My Captain!
 *Walt Whitman*
 
-<pre>
-O Captain! my Captain! our fearful trip is done;  <sup>1</sup>  
+
+O Captain! my Captain! our fearful trip is done;<sup>1</sup>  
 The ship has weather’d every rack, the prize we sought is won,  
 The port is near, the bells I hear, the people all exulting,  
 While follow eyes the steady keel, the vessel grim and daring;  
-nbwsBut O heart! heart! heart!  
-      O the bleeding drops of red,  
-        Where on the deck my Captain lies,  
-          Fallen cold and dead.  
-</pre>
+&npsp; &npsp; But O heart! heart! heart!  
+&npsp;      O the bleeding drops of red,  
+&npsp;        Where on the deck my Captain lies,  
+&npsp;          Fallen cold and dead.  
+
 
 - O Captain! my Captain! rise up and hear the bells; 
 - Rise up—for you the flag is flung—for you the bugle[^fn2] trills,
