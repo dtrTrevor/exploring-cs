@@ -40,7 +40,7 @@ From fearful trip the victor ship comes in with object won;
 
 <sup>1</sup> The author had just landed in La Guardia Airport after the flight captain died. All the passengers stood up to applaud the co-pilot. We have it in good authority that the event in question led Yoko Ono to write her "Letter to John":
 
-<span font-size: 1em;">*On a windy day let's go flying*  </span>
+<span font-size: 1em;">*On a windy day let's go flying*</span>
 *There may be no trees to rest on*  
 *There may be no clouds to ride*  
 *But we'll have our wings and the wind will be with us*  
