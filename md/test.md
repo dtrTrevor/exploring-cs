@@ -8,8 +8,8 @@ The port is near, the bells I hear, the people all exulting,
 While follow eyes the steady keel, the vessel grim and daring;  
 &nbsp; &nbsp; &nbsp; &nbsp; But O heart! heart! heart!  
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; O the bleeding drops of red,  
-          Where on the deck my Captain lies,  
-            Fallen cold and dead.  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Where on the deck my Captain lies,  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Fallen cold and dead.  
 
 
 
