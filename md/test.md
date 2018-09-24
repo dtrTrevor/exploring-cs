@@ -4,8 +4,8 @@
 - The ship has weather’d every rack, the prize we sought is won,
 - The port is near, the bells I hear, the people all exulting,
 - While follow eyes the steady keel, the vessel grim and daring; 
-- ...But O heart! heart! heart!
-- ...O the bleeding drops of red,
+-   But O heart! heart! heart!
+-      O the bleeding drops of red,
 - {:.indent-5}Where on the deck my Captain lies,
 - {:.indent-6}Fallen cold and dead.
 
