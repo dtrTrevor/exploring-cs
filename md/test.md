@@ -1,10 +1,4 @@
----
-layout: poem
-title: "O Captain! My Captain!"
-author: Walt Whitman
-editor: Alex Gil
-source: Poetry Foundation
----
+## This is a markdown file
 
 - O Captain! my Captain! our fearful trip is done;[^fn1]
 - The ship has weather’d every rack, the prize we sought is won,
