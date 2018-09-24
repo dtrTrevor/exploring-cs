@@ -1,6 +1,5 @@
 ---
 layout: poem
-title: "O Captain! My Captain!"
 ---
 
 - O Captain! my Captain! our fearful trip is done;[^fn1]
