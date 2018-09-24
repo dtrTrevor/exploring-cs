@@ -1,7 +1,7 @@
 # O Captain! My Captain!
 *Walt Whitman*
 
-O Captain! my Captain! our fearful trip is done;  
+O Captain! my Captain! our fearful trip is done;  <sup>1</sup>
 The ship has weather’d every rack, the prize we sought is won,  
 The port is near, the bells I hear, the people all exulting,  
 While follow eyes the steady keel, the vessel grim and daring;  
@@ -35,7 +35,7 @@ While follow eyes the steady keel, the vessel grim and daring;
 
 ## Footnotes
 
-[^fn1]: 
+<sup>1</sup>: 
 
 	The author had just landed in La Guardia Airport after the flight captain died. All the passengers stood up to applaud the co-pilot. We have it in good authority that the event in question led Yoko Ono to write her "Letter to John":
 
