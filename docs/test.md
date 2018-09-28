@@ -2,7 +2,7 @@
 *Walt Whitman*
 
 
-![ship_image](../ship.jpg "Ship image")
+![ship_image](../images/ship.jpg "Ship image")
 
 
 
