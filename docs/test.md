@@ -4,7 +4,7 @@
 
 ![ship_image](../images/ship.jpg "Ship image")
 
-(setq markdown-css-paths '("../styles/custom.css"))
+<link href="../styles/style.css" rel="stylesheet"></link>
 
 O Captain! my Captain! our fearful trip is done;<sup>1</sup>  
 The ship has weather’d every rack, the prize we sought is won,  
