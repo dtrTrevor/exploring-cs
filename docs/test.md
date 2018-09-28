@@ -1,5 +1,6 @@
 ## O Captain! My Captain!
 *Walt Whitman*
+
 <link href="../styles/style.css" rel="stylesheet"></link>
 
 ![ship_image](../images/ship.jpg "Ship image")
