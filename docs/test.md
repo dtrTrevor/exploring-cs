@@ -1,4 +1,4 @@
-## O Captain! My Captain!</br>
+## O Captain! My Captain!
 *Walt Whitman*
 
 ![ship_image](../images/ship.jpg "Ship image")
