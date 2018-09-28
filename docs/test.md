@@ -1,4 +1,5 @@
-<link rel="stylesheet" type="text/css" media="all" href="../styles/style.css" />
+(setq markdown-css-paths '("../styles/custom.css"))
+
 ## O Captain! My Captain!
 *Walt Whitman*
 
