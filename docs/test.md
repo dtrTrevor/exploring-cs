@@ -1,3 +1,4 @@
+<link rel="stylesheet" type="text/css" media="all" href="../styles/style.css" />
 ## O Captain! My Captain!
 *Walt Whitman*
 
