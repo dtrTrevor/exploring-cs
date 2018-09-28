@@ -1,4 +1,3 @@
-<link href="../styles/style.css" rel="stylesheet"></link>
 ## O Captain! My Captain!
 *Walt Whitman*
 
@@ -52,3 +51,6 @@ From fearful trip the victor ship comes in with object won;
 <sup>2</sup> The bugle is a small trumpet implicated in the military industrial complex.
 
 <sup>3</sup> Another footnote. Why not? 
+
+
+<link href="../styles/style.css" rel="stylesheet"></link>
