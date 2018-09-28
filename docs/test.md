@@ -2,6 +2,10 @@
 *Walt Whitman*
 
 
+![alt text](https://github.com/dtrTrevor/MD/images/ship.jpg "Ship image")
+
+
+
 O Captain! my Captain! our fearful trip is done;<sup>1</sup>  
 The ship has weather’d every rack, the prize we sought is won,  
 The port is near, the bells I hear, the people all exulting,  
