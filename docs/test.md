@@ -1,6 +1,6 @@
 ## O Captain! My Captain!
 *Walt Whitman*
-
+<link href="../styles/style.css" rel="stylesheet"></link>
 
 ![ship_image](../images/ship.jpg "Ship image")
 
@@ -53,4 +53,4 @@ From fearful trip the victor ship comes in with object won;
 <sup>3</sup> Another footnote. Why not? 
 
 
-<link href="../styles/style.css" rel="stylesheet"></link>
+
