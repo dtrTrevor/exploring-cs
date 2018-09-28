@@ -2,7 +2,7 @@
 *Walt Whitman*
 
 
-![alt text](https://github.io/dtrTrevor/MD/ship.jpg "Ship image")
+![ship_image](hip.jpg "Ship image")
 
 
 
